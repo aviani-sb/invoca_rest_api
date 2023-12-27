@@ -1,6 +1,6 @@
 [package]
 name = "invoca_rest_api"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 keywords = ["http", "request", "client", "zuora"]
 categories = ["web-programming::http-client"]
